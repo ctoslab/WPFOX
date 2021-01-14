@@ -17,7 +17,7 @@ Video Proof: https://youtu.be/Ha1ul1BONB8
 
 ### 📖 HOW TO INSTALL
 
-1. Download the tool ('https://sellix.io/product/5ff784139208e')
+1. Download the tool 
 2. Open the WPFOX.exe file
 3. copy and past the url with (https://example.com/)
 4. press ENUMERATE button.
